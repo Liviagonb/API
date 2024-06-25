@@ -53,28 +53,32 @@ Futuramente
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
+>
 
+[![SPRINT 1](https://img.youtube.com/vi/8dmg5C7nsyQ&t/0.jpg)](https://youtu.be/8dmg5C7nsyQ&t)
 <p align="center">
- <img src="https://youtu.be/8dmg5C7nsyQ?si=y-kx1KDOgrJFgGKI" width="100%"/>
-</p>
+ 
 
 ## Sprint 2
+>
 
+[![SPRINT 2](https://img.youtube.com/vi/SP0fIx2wkXg/0.jpg)](https://youtu.be/SP0fIx2wkXg)
 <p align="center">
- <img src="https://youtu.be/SP0fIx2wkXg?si=-OqS-_P9sDe7MVjW" width="100%"/>
-</p>
+
 
 ## Sprint 3
+>Colocar o vídeo da apresentação
 
+[![SPRINT 3](https://img.youtube.com/vi/usFA8EMPqOs/0.jpg)](https://youtu.be/usFA8EMPqOs)
 <p align="center">
- <img src="https://youtu.be/usFA8EMPqOs?si=8ZCkYjFgmqa5T2oZ" width="100%"/>
-</p>
+
 
 ## Sprint 4
+>Colocar o vídeo da apresentação
 
+[![SPRINT 4](https://img.youtube.com/vi/LfBc7zXrUZ0/0.jpg)](https://youtu.be/LfBc7zXrUZ0)
 <p align="center">
- <img src="https://youtu.be/LfBc7zXrUZ0?si=ukxGq5_qs5MzXdQ0" width="100%"/>
-</p>
+
 
 ## Apresentação final (se necessario)
 Vídeo com a apresentação final da API do "semestre/ano"
