@@ -41,47 +41,39 @@ Futuramente
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+>.
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src="https://s4.aconvert.com/convert/p3r68-cdx67/aedvk-o86dt.jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+>Ajudar em uma melhoria utilizando as ferramentas de "Análise de Forecast"
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
+ <img src="https://youtu.be/8dmg5C7nsyQ?si=y-kx1KDOgrJFgGKI" width="100%"/>
 </p>
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
+ <img src="https://youtu.be/SP0fIx2wkXg?si=-OqS-_P9sDe7MVjW" width="100%"/>
 </p>
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/imagens.png" width="100%"/>
+ <img src="https://youtu.be/usFA8EMPqOs?si=8ZCkYjFgmqa5T2oZ" width="100%"/>
 </p>
 
 ## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
 
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%203/imagem/video.png" width="100%"/>
+ <img src="https://youtu.be/LfBc7zXrUZ0?si=ukxGq5_qs5MzXdQ0" width="100%"/>
 </p>
 
 ## Apresentação final (se necessario)
